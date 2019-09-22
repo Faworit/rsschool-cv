@@ -4,12 +4,12 @@
    * *telegram* @faworit89
 3. My main goal change my profession. I want be programmer because it's interesting for me.
 4. Skills:
-* Java 
-          * HTML 
-          * CSS 
-          * GIT 
-          * PHP 
-          * Photoshop
+   * Java 
+   * HTML 
+   * CSS 
+   * GIT 
+   * PHP 
+   * Photoshop
 5. [Final project EPAM](https://github.com/Faworit/FinalWork)
    ```Java
    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
