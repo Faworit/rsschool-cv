@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <link href="style.css" rel="stylesheet">
+    <title>Resume</title>
+  </head>
+  <body>
+      <header>
+        <h1>Resume</h1>      
+        <img src="foto.jpg" class="foto">        
+
+      </div>        
+      <div>
+            <ol>
+                <li>Sergey Ryabtsev</li>
+                <li>
+                <address>
+                    <ul>
+                        <li>mobile: +77077403114</li>
+                        <li>mail: sergei_ryabzev@mail.ru</li>
+                        <li>telegram @faworit89</li>
+                    </ul>
+                </address>
+                </li>
+                
+                <li>My main goal change my profession. I want be programmer because it's interesting for me.</li>
+                <li>
+                    Skills: <br>
+                    <ul>
+                        <li>Java</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>GIT</li>
+                        <li>PHP</li>
+                        <li>Photoshop</li>
+                        
+                    </ul>
+                </li>
+                <li><a href="https://github.com/Faworit/FinalWork">Final project EPAM</a> <br>
+                  <pre class="pre"><code>
+protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+     TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
+     String s = request.getRequestURI();
+     ServiceFactory serviceFactory = ServiceFactory.getInstance();
+     Service service = serviceFactory.getService(s);
+     try {
+         service.execute(request, response);
+     } catch (ParseException e) {
+         log.error(e);
+     } catch (SQLException e) {
+         log.error(e);
+     }
+ }
+                    </pre></code>
+                </li>
+                <li>
+                    <ul>
+                        <li>JAVA WEB DEVELOPMENT - training in EPAM</li>
+                        <li>SBTC - english courses</li>
+                    </ul>
+                </li>
+                <li>Practice on courses, fifnish course in 2019, although practice in travel.</li>
+            </ol>              
+        </header>
+  </body>
+</html>
