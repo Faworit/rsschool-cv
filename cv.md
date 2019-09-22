@@ -1,7 +1,7 @@
 1. **Sergey Ryabtsev**
-2. * *mobile:* +77077403114 
-   * *mail:* sergei_ryabzev@mail.ru 
-   * *telegram* @faworit89
+2. * *mobile: +77077403114*
+   * *mail: sergei_ryabzev@mail.ru* 
+   * *telegram @faworit89*
 3. My main goal change my profession. I want be programmer because it's interesting for me.
 4. Skills:
    * Java 
