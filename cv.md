@@ -4,11 +4,11 @@
    * *telegram* @faworit89
 3. My main goal change my profession. I want be programmer because it's interesting for me.
 4. Skills: 
-          * Java <br>
-          * HTML <br>
-          * CSS <br>
-          * GIT <br>
-          * PHP <br>
+          * Java 
+          * HTML 
+          * CSS 
+          * GIT 
+          * PHP 
           * Photoshop
 5. [Final project EPAM](https://github.com/Faworit/FinalWork)
    ```Java
